@@ -1,0 +1,38 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.sqlite3
+*.db
+
+# JetBrains
+.idea/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# mypy
+.mypy_cache/
+
+# pipenv
+Pipfile.lock
+
+# pyenv
+.python-version
